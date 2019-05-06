@@ -36,6 +36,13 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![DevOps Roadmap](./images/devops.png)
 
+
+## ME Roadmap
+
+![DevOps Roadmap](./images/Roadmaps--developer-ver2.jpg)
+
+
+
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
